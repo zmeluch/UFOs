@@ -24,7 +24,7 @@ In order to perform a search:
 
 	- Continue to fill in text boxes until the desired results appear
 
-	![third txt box](https://user-images.githubusercontent.com/103155045/185821049-c1b7e08e-36dc-457d-ad8b-811c712c6946.png)
+![third txt box](https://user-images.githubusercontent.com/103155045/185821049-c1b7e08e-36dc-457d-ad8b-811c712c6946.png)
 
 	- Click the navigation bar on the top of the page to refresh results and start again
 
@@ -33,8 +33,8 @@ In order to perform a search:
 	
 ## Summary
 
-	- One drawback of the webpage is that you have to search by a specfic date, where finding dates within 
-		a range may be more effective for the users than having to keep typing in specific dates.
-	- To help advance the site, an input where the user could set a date range could be better for finding
-		data for the users.
-	- Another development that could help the site would the ability to sort the columns of the table.
+- One drawback of the webpage is that you have to search by a specfic date, where finding dates within 
+	a range may be more effective for the users than having to keep typing in specific dates.
+- To help advance the site, an input where the user could set a date range could be better for finding
+	data for the users.
+- Another development that could help the site would the ability to sort the columns of the table.
